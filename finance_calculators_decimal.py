@@ -1,7 +1,4 @@
-#Re-work in progress - TODO is to apply decimal to bond repayment calculator
-
-# Import required modules:
-import math
+# Import required modules/objects from standard library.
 from decimal import Decimal
 
 # Hard-code strings for calculation types
